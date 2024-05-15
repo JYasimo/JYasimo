@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**JYasimo/JYasimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I graduated from the University of Tehran in 2021 with a degree in Material Engineering 🎓. 
 
-Here are some ideas to get you started:
+In 2023, I moved to Australia 🇦🇺 to pursue my Master of Data Science and Innovation at the University of Technology Sydney 📊. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My engineering background gives me a unique perspective as a data scientist, allowing me to approach problems analytically and find practical solutions 🛠️.
+
+
+I'm passionate about driving innovation and using data to make a positive impact. Let's connect and explore how we can collaborate to shape a data-driven future!
+
+## Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jyasimo/))
+- [Email](JYasimo@gmail.com)
+
