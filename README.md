@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yasi Mo!
 
-Motivated Data Scientist with a Master’s degree from the University of Technology Sydney, specializing in Python 🐍, data analysis 📊, and machine learning 🤖.
+Motivated Data Scientist with a Master’s degree from the University of Technology Sydney, specialising in Python 🐍, data analysis 📊, and machine learning 🤖.
 
 Eager to apply my skills to drive data-driven insights and solutions. Adaptable and collaborative 🤝.
 
