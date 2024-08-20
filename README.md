@@ -9,7 +9,7 @@ My engineering background gives me a unique perspective in data science, solving
 Passionate about innovation and making a positive impact with data 🌟. Let’s connect and shape a data-driven future!
 
 ## Find me around the web 🌎:
-- [LinkedIn](https://www.linkedin.com/in/jyasimo/) 🔗
+- [LinkedIn](www.linkedin.com/in/yasi-mo) 🔗
 - [Email](JYasimo@gmail.com) 📧
 - [Website](https://yasi-mo.com/) 🌐
 
