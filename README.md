@@ -12,4 +12,4 @@ Passionate about innovation and making a positive impact with data 🌟. Let’s
 - [LinkedIn](www.linkedin.com/in/yasi-mo) 🔗
 - [Email](JYasimo@gmail.com) 📧
 - [Website](https://yasi-mo.com/) 🌐
-- [Tableau Public]([https://yasi-mo.com/](https://public.tableau.com/app/profile/yasaman.mohammadi/vizzes)) 📊
+- [Tableau Public](https://yasi-mo.com/](https://public.tableau.com/app/profile/yasaman.mohammadi/vizzes) 📊
